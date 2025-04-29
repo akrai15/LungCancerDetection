@@ -10,7 +10,7 @@ MHACNN (Multi-Head Attention Convolutional Neural Network) is a novel deep learn
 
     Dual-dataset compatibility: LUNA16 (CT scans) and LC25000 (Histopathology)
 
-    ![image](https://github.com/user-attachments/assets/72318fbc-b651-4503-9a72-48e4684568a5)
+![image](https://github.com/user-attachments/assets/72318fbc-b651-4503-9a72-48e4684568a5)
 
 
     Hybrid architecture: CNN + Multi-Head Attention
@@ -32,7 +32,9 @@ MHACNN Architecture <!-- Make sure this image exists or upload one -->
     Multi-Head Attention layers for capturing long-range dependencies
 
     Dense layers for binary classification (Benign vs Malignant)
-    ![image](https://github.com/user-attachments/assets/130eba65-3986-4632-8762-ae14198b26fb)
+
+![image](https://github.com/user-attachments/assets/f932a134-ce76-4190-842b-fd75a1e069f7)
+
 
 
 📁 Datasets Used
@@ -96,7 +98,7 @@ Key Advantages:
 
     Enhanced feature capture and interpretability.
 
-    ![image](https://github.com/user-attachments/assets/d9999ce4-6042-4fee-bf6d-64b66b4ed044)
+![image](https://github.com/user-attachments/assets/d9999ce4-6042-4fee-bf6d-64b66b4ed044)
 
 
 
@@ -124,7 +126,9 @@ LUNA16	97%	0.88	0.84	0.86
 🔍 Visualizations (Grad-CAM)
 
 Grad-CAM is used to visualize the regions most influential in the model’s decisions.
-      ![image](https://github.com/user-attachments/assets/ae7c6cdb-048e-4c2f-8589-9abd8fe45563)
+
+
+![image](https://github.com/user-attachments/assets/ae7c6cdb-048e-4c2f-8589-9abd8fe45563)
 ![image](https://github.com/user-attachments/assets/d2baeaec-7fbd-45d4-afb1-e5353552fe07)
 
 
